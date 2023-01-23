@@ -19,6 +19,7 @@ Com a criação do MER, é feito o DER (Diagrama Entidade Relacionamento) que te
 
 2 - Modelo Conceitual: O modelo conceitual será feito na ferramenta brModelo onde iremos melhorar o DER, utilizando uma linguagem de alto nível, para descrever visualmente as entidades fortes e fracas, atributos, chaves primarias/identificadores, associações relativas, especializações, valores atómicos ou multivalorados e a relação entre eles.
 <br>
+![modeloconceitual](https://user-images.githubusercontent.com/88864793/214097111-15208fbd-865c-4938-a6fc-5953102b8303.png)
 
 3 - Modelo Lógico: Os modelos lógicos se preocupam com os tipos, atributos e relacionamentos das entidades (as informações em si) que habitarão o sistema.
 <br>
