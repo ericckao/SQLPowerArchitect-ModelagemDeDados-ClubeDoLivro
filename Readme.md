@@ -22,5 +22,7 @@ Com a criação do MER, é feito o DER (Diagrama Entidade Relacionamento) que te
 
 3 - Modelo Lógico: Os modelos lógicos se preocupam com os tipos, atributos e relacionamentos das entidades (as informações em si) que habitarão o sistema.
 <br>
+![modelologico](https://user-images.githubusercontent.com/88864793/214096641-4c5bdade-8225-4335-a19f-f9677db4a7b6.png)
+
 
 4 - Modelo Físico: Representa o 3º estágio da modelação, onde o modelo físico enriquece modelo lógico com detalhes que são extremamente importantes para a implementação, como por exemplo, o tipo de dado, o numero de caracteres suportados, se aceita valores nulos ou não, etc. 
