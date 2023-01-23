@@ -18,5 +18,9 @@ Com a criação do MER, é feito o DER (Diagrama Entidade Relacionamento) que te
 <br>
 
 2 - Modelo Conceitual: O modelo conceitual será feito na ferramenta brModelo onde iremos melhorar o DER, utilizando uma linguagem de alto nível, para descrever visualmente as entidades fortes e fracas, atributos, chaves primarias/identificadores, associações relativas, especializações, valores atómicos ou multivalorados e a relação entre eles.
+<br>
 
 3 - Modelo Lógico: Os modelos lógicos se preocupam com os tipos, atributos e relacionamentos das entidades (as informações em si) que habitarão o sistema.
+<br>
+
+4 - Modelo Físico: Representa o 3º estágio da modelação, onde o modelo físico enriquece modelo lógico com detalhes que são extremamente importantes para a implementação, como por exemplo, o tipo de dado, o numero de caracteres suportados, se aceita valores nulos ou não, etc. 
