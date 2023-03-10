@@ -38,6 +38,6 @@ Grupo Alura, como idealizador e responsável pelo desenvolvimento do Projeto.
 
 https://cursos.alura.com.br/formacao-modelagem-dados
 
-Erick Fernandes, construtor do projeto com base nos conhecimentos adquiridos. 
+Erick Fernandes, como construtor do projeto com base nos conhecimentos adquiridos. 
 
 https://www.linkedin.com/in/erickfernanddes/
