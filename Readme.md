@@ -10,21 +10,19 @@ Com a criação do MER, é feito o DER (Diagrama Entidade Relacionamento) que te
 
 ## 2 - Modelo Conceitual
 O modelo conceitual será feito na ferramenta brModelo onde iremos melhorar o DER, utilizando uma linguagem de alto nível, para descrever visualmente as entidades fortes e fracas, atributos, chaves primarias/identificadores, associações relativas, especializações, valores atómicos ou multivalorados e a relação entre eles.
-<br>
+
 ![modeloconceitual](https://user-images.githubusercontent.com/88864793/214097111-15208fbd-865c-4938-a6fc-5953102b8303.png)
 
 ## 3 - Modelo Lógico
 Os modelos lógicos se preocupam com os tipos, atributos e relacionamentos das entidades (as informações em si) que habitarão o sistema.
-<br>
+
 ![modelologico](https://user-images.githubusercontent.com/88864793/214096641-4c5bdade-8225-4335-a19f-f9677db4a7b6.png)
 
 
 ## 4 - Modelo Físico
 Representa o 3º estágio da modelação, onde o modelo físico enriquece modelo lógico com detalhes que são extremamente importantes para a implementação, como por exemplo, o tipo de dado, o numero de caracteres suportados, se aceita valores nulos ou não, etc. 
 
-
-
-
+![ModeloFisico](https://user-images.githubusercontent.com/88864793/224388733-5c497e04-9d8e-4488-9aa0-a2a35b9d6208.png)
 
 
 # Ferramentas utilizadas
@@ -34,36 +32,12 @@ Representa o 3º estágio da modelação, onde o modelo físico enriquece modelo
 - SQL Power Architect: Elaboração do modelo físico.
 
 
+# Autor
 
+Grupo Alura, como idealizador e responsável pelo desenvolvimento do Projeto.
 
+https://cursos.alura.com.br/formacao-modelagem-dados
 
+Erick Fernandes, construtor do projeto com base nos conhecimentos adquiridos. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://www.linkedin.com/in/erickfernanddes/
